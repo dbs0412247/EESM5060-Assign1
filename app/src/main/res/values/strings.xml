@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EESM5060 Assign1</string>
+    <string name="app_subtitle">By hcayuen</string>
+    <string name="actionChoose">Choose A Friend</string>
+    <string name="nameBigBird">BigBird</string>
+    <string name="nameCookieMonster">CookieMonster</string>
+    <string name="nameGoldfish">Goldfish</string>
+    <string name="nameElmo">Elmo</string>
+    <string name="nameJulia">Julia</string>
+    <string name="nameMrNoodle">Mr Noodle</string>
+</resources>
